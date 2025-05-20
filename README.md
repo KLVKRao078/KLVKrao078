@@ -107,13 +107,4 @@
 
 ---
 
-### 🌟 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KLVKRao078&show_icons=true&theme=radical" alt="GitHub stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KLVKRao078&layout=compact&theme=radical" alt="Top Languages" height="180"/>
-</p>
-
----
-
-###
