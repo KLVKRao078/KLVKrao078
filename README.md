@@ -1,7 +1,8 @@
 <!-- Banner Image -->
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+  <img height="150" src="https://drive.google.com/uc?export=view&id=1ns7dMmtpjkSoccVasy33RKTEna_aRpMl" />
 </div>
+
 
 ###
 
