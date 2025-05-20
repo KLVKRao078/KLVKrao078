@@ -1,9 +1,7 @@
 <!-- Banner Image -->
 <div align="center">
-  <img height="150" src="https://raw.githubusercontent.com/KLVKRao078/Python-SQL-Project/main/readme%20logo.png" />
+  <img height="150" src="https://i.postimg.cc/tCpjKw02/readme-logo.png" />
 </div>
-
-
 
 ###
 
