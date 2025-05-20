@@ -1,31 +1,19 @@
 <!-- Banner Image -->
-<img src="https://github.com/koteshwarraoklvk/koteshwarraoklvk/blob/main/assets/banner.png" alt="Data Analyst Banner" style="width:100%; height:auto;"/>
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
 
-<h1 align="center">Hi 👋, I'm KLV Koteshwar Rao</h1>
+###
+
+<h1 align="center">Hi 👋, I'm Koteshwar Rao</h1>
 <h3 align="center">Data Analyst | SQL | Python | Power BI | Tableau | Excel</h3>
 
 <p align="center">
   <a href="mailto:koteshwarraoklvk@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/klv-koteshwarrao"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/koteshwarraoklvk"><img src="https://img.shields.io/github/followers/koteshwarraoklvk?style=social"/></a>
+  <a href="https://klvkoteshwarrao.wixsite.com/my-portfolio"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
 </p>
 
----
-
-### 💡 About Me
-
-🔍 A passionate **Data Analyst** with over 4 years of experience in transforming raw data into actionable insights using tools like **SQL, Excel, Power BI**, and **Python**.
-
-📊 I specialize in:
-- Advanced SQL Skills for Data Analysis
-- Data Cleaning & Preparation
-- KPI Dashboards and Visualizations
-- Statistical and Predictive Modeling
-- Exploratory Data Analysis (EDA)
-- Process Automation (Excel Macros)
-- Business Reporting & Decision Support
-
-📍 Currently based in **Sharjah, UAE**
 
 ---
 
@@ -53,6 +41,24 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="40" alt="scikit learn logo" />
 </div>
 
+---
+
+### 💡 About Me
+
+🔍 A passionate **Data Analyst** with over 4 years of experience in transforming raw data into actionable insights using tools like **SQL, Excel, Power BI**, and **Python**.
+
+📊 I specialize in:
+- Advanced SQL Skills for Data Analysis
+- Data Cleaning & Preparation
+- KPI Dashboards and Visualizations
+- Statistical and Predictive Modeling
+- Exploratory Data Analysis (EDA)
+- Process Automation (Excel Macros)
+- Business Reporting & Decision Support
+
+📍 Currently based in **Sharjah, UAE**
+
+---
 
 ### 📈 Projects
 
